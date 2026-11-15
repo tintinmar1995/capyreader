@@ -365,7 +365,7 @@
     <string name="settings_e_ink_page_turn_keys_title">Boutons de changement de page</string>
     <string name="settings_e_ink_page_turn_keys_subtitle">Les touches de volume, les touches de navigation et les touches Page Haut/Bas permettent de tourner les pages des articles</string>
     <string name="settings_section_storage">Stockage</string>
-    <string name="settings_search_placeholder">Paramètres de recherche</string>
+    <string name="settings_search_placeholder">Recherche de paramètres</string>
     <string name="settings_search_no_results">Aucun résultat</string>
     <string name="search_no_results">Aucun résultat trouvé</string>
     <string name="feed_nav_drawer_open">Ouvrir le tiroir de navigation</string>
